@@ -28,12 +28,14 @@ As you read any or all of this, keep in mind that I'm mostly just thinking out l
 
 ## Thoughts about
 
-### Catalyzing ideas
+### Getting started
 
-Ideas are catalyzed into successful businesses in one of two ways:
+Ideas are great but execution is everything. As an oversimplification if you want to become an entreprenuer, you need to be prepared to invest one or two of the following mixtures:
 
-1. The mixture of biological energy (action) and time (eg. starting a business in college)
-1. The mixture of financial energy (money) and experience (eg. starting a business after your kids leave for college)
+1. The mixture of time and energy (eg. starting a business in college)
+1. The mixture of experience and money (eg. starting a business after your kids leave for college)
+
+Once you start commiting a noteworthy amount of one of the two mixtures, you've started.
 
 ## Books
 
