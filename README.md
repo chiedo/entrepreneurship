@@ -35,7 +35,7 @@ Ideas are great but execution is everything. As an oversimplification if you wan
 1. The mixture of time and energy (eg. starting a business in college)
 1. The mixture of experience and money (eg. starting a business after your kids leave for college)
 
-Once you start commiting a noteworthy amount of one of the two mixtures, you've started.
+Once you start commiting a noteable amount of one of the two mixtures, you've started.
 
 ## 📚 Books
 
