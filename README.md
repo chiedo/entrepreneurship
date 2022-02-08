@@ -1,4 +1,4 @@
-# Entrepreneurship (Work in Progress)
+# 🚀 Entrepreneurship
 
 Hey I'm Chiedo, 👋
 
@@ -26,9 +26,9 @@ I do not have experience:
 
 As you read any or all of this, keep in mind that I'm mostly just thinking out loud. And maybe something you read may or may not resonate with you or be helpful. 😄
 
-## Thoughts about
+## 🧠 Thoughts about
 
-### Getting started
+### 🐤 Getting started
 
 Ideas are great but execution is everything. As an oversimplification if you want to become an entreprenuer, you need to be prepared to invest one or two of the following mixtures:
 
@@ -37,7 +37,7 @@ Ideas are great but execution is everything. As an oversimplification if you wan
 
 Once you start commiting a noteworthy amount of one of the two mixtures, you've started.
 
-## Books
+## 📚 Books
 
 - The E-Myth Revisited by Michael E. Gerber
 - Ego Is the Enemy by Ryan Holiday
