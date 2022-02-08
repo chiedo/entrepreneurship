@@ -28,12 +28,12 @@ As you read any or all of this, keep in mind that I'm mostly just thinking out l
 
 ## Thoughts about
 
-### Ideas
+### Catalyzing ideas
 
 Ideas are catalyzed into successful businesses in one of two ways:
 
-1. The mixture of biological energy (action) and time
-1. The mixture of financial energy (money) and experience
+1. The mixture of biological energy (action) and time (eg. starting a business in college)
+1. The mixture of financial energy (money) and experience (eg. starting a business after your kids leave for college)
 
 ## Books
 
