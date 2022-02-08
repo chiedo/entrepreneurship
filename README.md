@@ -26,7 +26,9 @@ I do not have experience:
 
 As you read any or all of this, keep in mind that I'm mostly just thinking out loud. And maybe something you read may or may not resonate with you or be helpful. 😄
 
-## Ideas
+## Thoughts about
+
+### Ideas
 
 Ideas are catalyzed into successful businesses in one of two ways:
 
