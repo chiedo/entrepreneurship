@@ -42,6 +42,7 @@ Once you start commiting a noteable amount of one of the two mixtures, you've st
 - The E-Myth Revisited by Michael E. Gerber
 - Ego Is the Enemy by Ryan Holiday
 - Steve Jobs by Walter Isaacson
+- Angel by Jason Calacanis
 - Venture Deals by Brad Feld
 - All of these [leadership books](https://github.com/chiedo/leadership#books).
 
